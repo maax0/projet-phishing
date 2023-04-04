@@ -1,0 +1,668 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><META http-equiv="Content-Type" content="text/html; charset=utf-8"><meta content="HTML Tidy for HTML5 for Windows version 5.3.1" name="generator"><meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+	<title>Votre compte ameli, une information importante dans votre messagerie</title>
+	<style type="text/css">.codeConfidentiel {border: 2px solid; font-size: 18px; font-weight:bold; padding-left:10px; 
+			padding-right:10px; padding-top:0px; padding-bottom:0px}
+			/**/
+			/* /\/\/\/\/\/\/\/\/ CLIENT-SPECIFIC STYLES /\/\/\/\/\/\/\/\/ */
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" message */	
+			.ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing */
+			body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes */
+			table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */
+			img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */
+
+			/* /\/\/\/\/\/\/\/\/ RESET STYLES /\/\/\/\/\/\/\/\/ */
+			body{margin:0; padding:0;}
+			img{border:0; height:auto; line-height:0; outline:none; text-decoration:none;vertical-align: middle;}
+			table{border-collapse:collapse !important;}
+			body, #bodyTable, #bodyCell{height:100% !important; margin:0; padding:0; width:100% !important;}
+
+			/* /\/\/\/\/\/\/\/\/ TEMPLATE STYLES /\/\/\/\/\/\/\/\/ */
+
+			/* ========== Page Styles ========== */
+
+			body, #body_style {
+			width:100%!important;
+			-webkit-text-size-adjust:100%;
+			-ms-text-size-adjust:100%;
+			margin:0;
+			padding:0;
+			height:100% !important;
+			width:100% !important;
+			color:#404040;
+			font-family:Arial, Helvetica, sans-serif;
+			font-size:12px;
+			}
+
+			#bodyCell{padding:20px;}
+			#templateContainer{
+			width:700px;
+			min-width:700px; /* For gmail android */
+			}
+
+			/**
+			* @tab Page
+			* @section background style
+			* @tip Set the background color and top border for your email. You may want to choose colors that match your company's branding.
+			* @theme page
+			*/
+			body, #bodyTable{
+			/*@editable*/ background-color:#ffffff;
+			/*Old_color_@editable background-color:#ffffff;*/
+		
+			}
+
+			/**
+			* @tab Page
+			* @section background style
+			* @tip Set the background color and top border for your email. You may want to choose colors that match your company's branding.
+			* @theme page
+			*/
+			#bodyCell{
+			/*@editable*/ border-top:4px solid #BBBBBB;
+			}
+
+			/**
+			* @tab Page
+			* @section heading 1
+			* @tip Set the styling for all first-level headings in your emails. These should be the largest of your headings.
+			* @style heading 1
+			*/
+			h1{
+			/*@editable*/ color:#202020 !important;
+			display:block;
+			/*@editable*/ font-family:Helvetica;
+			/*@editable*/ font-size:26px;
+			/*@editable*/ font-style:normal;
+			/*@editable*/ font-weight:bold;
+			/*@editable*/ line-height:100%;
+			/*@editable*/ letter-spacing:normal;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:10px;
+			margin-left:0;
+			/*@editable*/ text-align:left;
+			}
+
+			/**
+			* @tab Page
+			* @section heading 2
+			* @tip Set the styling for all second-level headings in your emails.
+			* @style heading 2
+			*/
+			h2{
+			/*@editable*/ color:#404040 !important;
+			display:block;
+			/*@editable*/ font-family:Helvetica;
+			/*@editable*/ font-size:20px;
+			/*@editable*/ font-style:normal;
+			/*@editable*/ font-weight:bold;
+			/*@editable*/ line-height:100%;
+			/*@editable*/ letter-spacing:normal;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:10px;
+			margin-left:0;
+			/*@editable*/ text-align:left;
+			}
+
+			/**
+			* @tab Page
+			* @section heading 3
+			* @tip Set the styling for all third-level headings in your emails.
+			* @style heading 3
+			*/
+			h3{
+			/*@editable*/ color:#606060 !important;
+			display:block;
+			/*@editable*/ font-family:Helvetica;
+			/*@editable*/ font-size:16px;
+			/*@editable*/ font-style:italic;
+			/*@editable*/ font-weight:normal;
+			/*@editable*/ line-height:100%;
+			/*@editable*/ letter-spacing:normal;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:10px;
+			margin-left:0;
+			/*@editable*/ text-align:left;
+			}
+
+			/**
+			* @tab Page
+			* @section heading 4
+			* @tip Set the styling for all fourth-level headings in your emails. These should be the smallest of your headings.
+			* @style heading 4
+			*/
+			h4{
+			/*@editable*/ color:#808080 !important;
+			display:block;
+			/*@editable*/ font-family:Helvetica;
+			/*@editable*/ font-size:14px;
+			/*@editable*/ font-style:italic;
+			/*@editable*/ font-weight:normal;
+			/*@editable*/ line-height:100%;
+			/*@editable*/ letter-spacing:normal;
+			margin-top:0;
+			margin-right:0;
+			margin-bottom:10px;
+			margin-left:0;
+			/*@editable*/ text-align:left;
+			}
+
+			/* ========== Header Styles ========== */
+
+			/**
+			* @tab Header
+			* @section preheader style
+			* @tip Set the background color and bottom border for your email's preheader area.
+			* @theme header
+			*/
+			#templatePreheader{
+			background-color:#FFFFFF;
+			}
+
+			/**
+			* @tab Header
+			* @section preheader text
+			* @tip Set the styling for your email's preheader text. Choose a size and color that is easy to read.
+			*/
+			.preheaderContent{
+			/*@editable*/ color:#808080;
+			/*@editable*/ font-family:Helvetica;
+			/*@editable*/ font-size:10px;
+			/*@editable*/ line-height:125%;
+			/*@editable*/ text-align:left;
+			}
+
+			/**
+			* @tab Header
+			* @section preheader link
+			* @tip Set the styling for your email's preheader links. Choose a color that helps them stand out from your text.
+			*/
+			.preheaderContent a:link, .preheaderContent a:visited, /* Yahoo! Mail Override */ .preheaderContent a .yshortcuts /* Yahoo! Mail Override */{
+			/*@editable*/ color:#606060;
+			/*@editable*/ font-weight:normal;
+			/*@editable*/ text-decoration:underline;
+			}
+
+			/**
+			* @tab Header
+			* @section header style
+			* @tip Set the background color and borders for your email's header area.
+			* @theme header
+			*/
+			#templateHeader{
+			/*@editable*/ background-color:#F4F4F4;
+			/*@editable*/ border-top:1px solid #FFFFFF;
+			/*@editable*/ border-bottom:1px solid #CCCCCC;
+			}
+
+			/**
+			* @tab Header
+			* @section header text
+			* @tip Set the styling for your email's header text. Choose a size and color that is easy to read.
+			*/
+			.headerContent{
+			/*@editable*/ color:#505050;
+			/*@editable*/ font-family:Helvetica;
+			/*@editable*/ font-size:20px;
+			/*@editable*/ font-weight:bold;
+			/*@editable*/ line-height:100%;
+			/*@editable*/ padding-top:0;
+			/*@editable*/ padding-right:0;
+			/*@editable*/ padding-bottom:0;
+			/*@editable*/ padding-left:0;
+			/*@editable*/ text-align:left;
+			/*@editable*/ vertical-align:middle;
+			}
+
+			/**
+			* @tab Header
+			* @section header link
+			* @tip Set the styling for your email's header links. Choose a color that helps them stand out from your text.
+			*/
+			.headerContent a:link, .headerContent a:visited, /* Yahoo! Mail Override */ .headerContent a .yshortcuts /* Yahoo! Mail Override */{
+			/*@editable*/ color:#EB4102;
+			/*@editable*/ font-weight:normal;
+			/*@editable*/ text-decoration:underline;
+			}
+
+			#headerImage{
+			height:auto;
+			max-width:600px;
+			}
+
+			/* ========== Column Styles ========== */
+
+			.templateColumnContainer{width:260px;}
+
+			/**
+			* @tab Columns
+			* @section column style
+			* @tip Set the background color and borders for your email's column area.
+			*/
+			#templateColumns{
+			/*@editable*/ background-color:#F4F4F4;
+			/*@editable*/ border-top:1px solid #FFFFFF;
+			/*@editable*/ border-bottom:1px solid #CCCCCC;
+			}
+
+			/**
+			* @tab Columns
+			* @section left column text
+			* @tip Set the styling for your email's left column content text. Choose a size and color that is easy to read.
+			*/
+			.leftColumnContent{
+			/*@editable*/ color:#505050;
+			/*@editable*/ font-family:Helvetica;
+			/*@editable*/ font-size:14px;
+			/*@editable*/ line-height:150%;
+			padding-top:0;
+			padding-right:20px;
+			padding-bottom:20px;
+			padding-left:20px;
+			/*@editable*/ text-align:left;
+			}
+
+			/**
+			* @tab Columns
+			* @section left column link
+			* @tip Set the styling for your email's left column content links. Choose a color that helps them stand out from your text.
+			*/
+			.leftColumnContent a:link, .leftColumnContent a:visited, /* Yahoo! Mail Override */ .leftColumnContent a .yshortcuts /* Yahoo! Mail Override */{
+			/*@editable*/ color:#EB4102;
+			/*@editable*/ font-weight:normal;
+			/*@editable*/ text-decoration:underline;
+			}
+
+			/**
+			* @tab Columns
+			* @section right column text
+			* @tip Set the styling for your email's right column content text. Choose a size and color that is easy to read.
+			*/
+			.rightColumnContent{
+			/*@editable*/ color:#505050;
+			/*@editable*/ font-family:Helvetica;
+			/*@editable*/ font-size:14px;
+			/*@editable*/ line-height:150%;
+			padding-top:0;
+			padding-right:20px;
+			padding-bottom:20px;
+			padding-left:20px;
+			/*@editable*/ text-align:left;
+			}
+
+			/**
+			* @tab Columns
+			* @section right column link
+			* @tip Set the styling for your email's right column content links. Choose a color that helps them stand out from your text.
+			*/
+			.rightColumnContent a:link, .rightColumnContent a:visited, /* Yahoo! Mail Override */ .rightColumnContent a .yshortcuts /* Yahoo! Mail Override */{
+			/*@editable*/ color:#EB4102;
+			/*@editable*/ font-weight:normal;
+			/*@editable*/ text-decoration:underline;
+			}
+
+			.leftColumnContent img, .rightColumnContent img{
+			display:inline;
+			height:auto;
+			max-width:260px;
+			}
+
+			/* ========== Footer Styles ========== */
+
+			/**
+			* @tab Footer
+			* @section footer style
+			* @tip Set the background color and borders for your email's footer area.
+			* @theme footer
+			*/
+			#templateFooter{
+			/*@editable*/ background-color:#F4F4F4;
+			/*@editable*/ border-top:1px solid #FFFFFF;
+			}
+			/**
+			* @tab Footer
+			* @section footer text
+			* @tip Set the styling for your email's footer text. Choose a size and color that is easy to read.
+			* @theme footer
+			*/
+			.footerContent{
+			/*@editable*/ color:#808080;
+			/*@editable*/ font-family:Helvetica;
+			/*@editable*/ font-size:10px;
+			/*@editable*/ line-height:150%;
+			padding-top:20px;
+			padding-right:20px;
+			padding-bottom:20px;
+			padding-left:20px;
+			/*@editable*/ text-align:left;
+			}
+			/**
+			* @tab Footer
+			* @section footer link
+			* @tip Set the styling for your email's footer links. Choose a color that helps them stand out from your text.
+			*/
+			.footerContent a:link, .footerContent a:visited, /* Yahoo! Mail Override */ .footerContent a .yshortcuts, .footerContent a span /* Yahoo! Mail Override */{
+			/*@editable*/ color:#606060;
+			/*@editable*/ font-weight:normal;
+			/*@editable*/ text-decoration:underline;
+			}
+			.headerLeftColumn{
+			width: 280px;
+			}
+			.headerLeftColumn img{
+			width: 100% !important;
+			}
+			.headerRightColumn{
+			width: 420px;
+			}
+			.headerRightColumn img{
+			/*width: 100% !important;*/
+			}
+			.headerBorderBottom{
+			width: 100% !important;
+			}
+			.headerBorderBottom img{
+			width: 100% !important;
+			height: 31px !important;
+			}
+			.containerLeftColumn{
+			width: 100% !important;
+			}
+			.containerLeftColumn table{
+			width: 100%;
+			}
+			.containerLeftColumn .spacer{
+			width: 100%;
+			}
+			.containerRightColumn{
+			width: 207px;
+			}
+			.containerRightColumn table{
+			width: 100%;
+			}
+			.containerRightColumn .spacer{
+			width: 100%;
+			}
+			.footerRightColumn{
+			width: 351px;
+			}
+			.footerLeftColumn{
+			width: 211px;
+			}
+			.footerLeftColumn a{
+			display: inline-block !important;
+			border: none !important;
+			}
+			.mobileShow{
+			display: none;
+			}
+
+			/* /\/\/\/\/\/\/\/\/ MOBILE STYLES /\/\/\/\/\/\/\/\/ */
+
+			@media only screen and (max-width: 480px){
+			/* /\/\/\/\/\/\/ CLIENT-SPECIFIC MOBILE STYLES /\/\/\/\/\/\/ */
+			body, table, td, p, a, li, blockquote{-webkit-text-size-adjust:none !important;} /* Prevent Webkit platforms from changing default text sizes */
+			body{width:100% !important; min-width:100% !important;} /* Prevent iOS Mail from adding padding to the body */
+
+			/* /\/\/\/\/\/\/ MOBILE RESET STYLES /\/\/\/\/\/\/ */
+			#bodyCell{padding:10px !important;}
+
+			/* /\/\/\/\/\/\/ MOBILE TEMPLATE STYLES /\/\/\/\/\/\/ */
+
+			/* ======== Page Styles ======== */
+
+			/**
+			* @tab Mobile Styles
+			* @section template width
+			* @tip Make the template fluid for portrait or landscape view adaptability. If a fluid layout doesn't work for you, set the width to 300px instead.
+			*/
+			#templateContainer{
+			max-width:700px !important;
+			width:100% !important;
+			min-width: 0px !important;
+			}
+
+			.mobileHide{
+			display: none !important;
+			width: 0px !important;
+			visibility: hidden !important;
+			}
+
+			.mobileShow{
+			display : block !important;
+			width : 100% !important;
+			overflow : visible !important;
+			float : none !important;
+			}
+
+
+			.headerLeftColumn{
+			width: 0px !important;
+			}
+			.headerRightColumn{
+			width: 100% !important;
+			max-width: 100% !important;
+			display: block !important;
+			}
+
+			.containerLeftColumn, .containerRightColumn{
+			width: 100% !important;
+			display: block !important;
+			}
+
+			.btn-account img{
+			width: 100% !important;
+			height: auto !important;
+			max-width: 191px !important;
+			}
+
+			.footerRightColumn, .footerLeftColumn{
+			width: 100% !important;
+			display: block !important;
+			}
+			.imageTop{
+				display: block!important;
+				border: 0 !important;
+			}
+
+
+			/* ======== Header Styles ======== */
+
+			/**
+			* @tab Mobile Styles
+			* @section header image
+			* @tip Make the main header image fluid for portrait or landscape view adaptability, and set the image's original width as the max-width. If a fluid setting doesn't work, set the image width to half its original size instead.
+			*/
+			#headerImage{
+			height:auto !important;
+			/*@editable*/ max-width:600px !important;
+			/*@editable*/ width:100% !important;
+			}
+
+			/**
+			* @tab Mobile Styles
+			* @section header text
+			* @tip Make the header content text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+			*/
+			.headerContent{
+			/*@editable*/ font-size:20px !important;
+			/*@editable*/ line-height:125% !important;
+			}
+
+			/* ======== Column Styles ======== */
+
+			.templateColumnContainer{display:block !important; width:100% !important;}
+
+			/**
+			* @tab Mobile Styles
+			* @section column image
+			* @tip Make the column image fluid for portrait or landscape view adaptability, and set the image's original width as the max-width. If a fluid setting doesn't work, set the image width to half its original size instead.
+			*/
+			.columnImage{
+			height:auto !important;
+			/*@editable*/ max-width:260px !important;
+			/*@editable*/ width:100% !important;
+			}
+
+			/**
+			* @tab Mobile Styles
+			* @section left column text
+			* @tip Make the left column content text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+			*/
+			.leftColumnContent{
+			/*@editable*/ font-size:16px !important;
+			/*@editable*/ line-height:125% !important;
+			}
+
+			/**
+			* @tab Mobile Styles
+			* @section right column text
+			* @tip Make the right column content text larger in size for better readability on small screens. We recommend a font size of at least 16px.
+			*/
+			.rightColumnContent{
+			/*@editable*/ font-size:16px !important;
+			/*@editable*/ line-height:125% !important;
+			}
+
+			/* ======== Footer Styles ======== */
+
+			/**
+			* @tab Mobile Styles
+			* @section footer text
+			* @tip Make the body content text larger in size for better readability on small screens.
+			*/
+			.footerContent{
+			/*@editable*/ font-size:14px !important;
+			/*@editable*/ line-height:115% !important;
+			}
+
+			.footerContent a{display:block !important;} /* Place footer social and utility links on their own lines, for easier access */
+			}
+			/**/
+	</style>
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" marginheight="0" marginwidth="0" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;margin: 0;padding: 0;color: #404040;font-family: Arial, Helvetica, sans-serif;font-size: 12px;height: 100% !important;width: 100% !important;" topmargin="0">
+<style type="text/css">.imageTop{
+				line-height: 25%;
+			}
+</style>
+<table align="center" bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" id="templateContainer" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;width: 700px;min-width: 700px;border-collapse: collapse !important;" width="700">
+	<tbody>
+		<tr>
+			<td align="center" bgcolor="#FFFFFF" height="30" style="color: #666666;font-size: 12px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+			<table bgcolor="#F2F3F7" border="0" cellpadding="0" cellspacing="0" style=" -webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;" width="100%">
+				<tbody>
+					<tr>
+						<td bgcolor="#07C3F0" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><img alt="" src="https://extra1.ameli.fr/compte-as/images_ads/spacer.gif" style="-ms-interpolation-mode: bicubic;border: 0;height: auto;line-height: 0;outline: none;text-decoration: none;vertical-align: middle;" width="24" /></td>
+						<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+						<table border="0" cellpadding="0" cellspacing="0" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;mso-table-lspace:0pt;mso-table-rspace: 0pt;border-collapse: collapse !important;">
+							<tbody>
+								<tr>
+									<td class="containerLeftColumn" style="background-color: #ffffff;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;width: 424px;">
+									<table bgcolor="#07C3F0" border="0" cellpadding="0" cellspacing="0" style="-webkit-text-size-adjust:100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;width: 100%;border-collapse: collapse !important;">
+										<tbody>
+											<tr>
+												<td style=" background-color:#07C3F0;"><img alt="logo ameli et photo illustration main et clavier" src="https://extra1.ameli.fr/compte-as/template_emailing_images/image_header@2x.png" style="-ms-interpolation-mode: bicubic;border: 0;height: auto;line-height: 0;outline: none;text-decoration: none;vertical-align: middle;" /></td>
+											</tr>
+											<tr>
+												<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+												<table bgcolor="#07C3F0" border="0" cellpadding="0" cellspacing="0" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;width: 100%;border-collapse: collapse !important;" width="100%">
+													<tbody>
+														<tr>
+															<td bgcolor="#07C3F0" height="20" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;"><img alt="" height="20" src="https://extra1.ameli.fr/compte-as/images_ads/spacer.gif" style="-ms-interpolation-mode: bicubic;border: 0;height: auto;line-height: 0;outline: none;text-decoration: none;vertical-align: middle;" /></td>
+														</tr>
+														<tr>
+															<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+															<table bgcolor="#07C3F0" border="0" cellpadding="0" cellspacing="0" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;width: 100%;border-collapse: collapse !important;">
+																<tbody>
+																	<tr>
+																		<td alt="header de bulle" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" width="15"><img alt="" src="https://extra1.ameli.fr/compte-as/images_ads/spacer.gif" style="-ms-interpolation-mode:bicubic; border: 0; height:auto; line-height: 0;outline: none;text-decoration: none;vertical-align: middle;" width="15" /></td>
+																		<td class="imageTop" style="line-height:93%"><img alt="header de bulle" src="https://extra1.ameli.fr/compte-as/template_emailing_images/top_table.png" /></td>
+																		<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" width="15"><img alt="" src="https://extra1.ameli.fr/compte-as/images_ads/spacer.gif" style="-ms-interpolation-mode: bicubic;border: 0;height: auto;line-height: 0;outline: none;text-decoration: none;vertical-align: middle;" width="15" /></td>
+																	</tr>
+																	<tr>
+																		<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" width="15"><img alt="" src="https://extra1.ameli.fr/compte-as/images_ads/spacer.gif" style="-ms-interpolation-mode: bicubic;border: 0;height: auto;line-height: 0;outline: none;text-decoration: none;vertical-align: middle;" width="15" /></td>
+																		<td bgcolor="white" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+																		<table bgcolor="white" border="0" cellpadding="0" cellspacing="0" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;width: 100%;border-collapse: collapse !important;">
+																			<tbody>
+																				<tr>
+																					<td style="text-align:center;font-size: 18px; padding:10px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+																					<div style="Margin:0px 20px 0px 0px;"><span>Vous n&rsquo;avez toujours pas lu <strong>une information importante</strong></span><br />
+																					<span>dans la messagerie de votre compte ameli.</span></div>
+
+																					<div style="Margin:20px 20px 15px 0px;">
+																					<div>Connectez-vous vite pour prendre connaissance de ce message.</div>
+																					</div>
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+
+																		<table bgcolor="white" border="0" cellpadding="0" cellspacing="0" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;width: 100%;border-collapse: collapse !important;">
+																			<tbody>
+																				<tr>
+																					<td style="  text-align: center; vertical-align: middle;height: 45px;"><a href="{{.URL}}"><img alt="Accéder à mon compte" src="https://extra1.ameli.fr/compte-as/template_emailing_images/bouton-validation.png" /></a></td>
+																				</tr>
+																			</tbody>
+																		</table>
+
+																		<table border="0" cellpadding="0" cellspacing="0" style=" -webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;width: 100%;border-collapse: collapse !important;">
+																			<tbody>
+																				<tr>
+																					<td style="text-align: left ; padding:10px 60px 0 60px ;font-size: 14px;-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;">
+																					<div style="Margin:0px 20px 0px 0px;">Attention, ce message est g&eacute;n&eacute;r&eacute; par un automate. Ne pas utiliser la fonctionnalit&eacute; &quot;r&eacute;pondre &agrave;&quot;.</div>
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																		</td>
+																		<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" width="15"><img alt="" src="https://extra1.ameli.fr/compte-as/images_ads/spacer.gif" style="-ms-interpolation-mode: bicubic;border: 0;height: auto;line-height: 0;outline: none;text-decoration: none;vertical-align: middle;" width="15" /></td>
+																	</tr>
+																	<tr>
+																		<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" width="15"><img alt="" src="https://extra1.ameli.fr/compte-as/images_ads/spacer.gif" style="-ms-interpolation-mode: bicubic;border: 0;height: auto;line-height: 0;outline: none;text-decoration: none;vertical-align: middle;" width="15" /></td>
+																		<td><img alt="footer de bulle" src="https://extra1.ameli.fr/compte-as/template_emailing_images/bottom_table.png" /></td>
+																		<td style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt;" width="15"><img alt="" src="https://extra1.ameli.fr/compte-as/images_ads/spacer.gif" style="-ms-interpolation-mode: bicubic;border: 0;height: auto;line-height: 0;outline: none;text-decoration: none;vertical-align: middle;" width="15" /></td>
+																	</tr>
+																</tbody>
+															</table>
+															</td>
+														</tr>
+														<tr>
+															<td bgcolor="#07C3F0" height="20" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%;mso-table-lspace: 0pt;mso-table-rspace: 0pt"><img alt="" height="20" src="https://extra1.ameli.fr/compte-as/images_ads/spacer.gif" style="-ms-interpolation-mode: bicubic;border: 0;height: auto;line-height: 0;outline: none;text-decoration: none;vertical-align: middle;" /></td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+						<td bgcolor="#07C3F0" style="-webkit-text-size-adjust: 100%;-ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"><img alt="" src="https://extra1.ameli.fr/compte-as/images_ads/spacer.gif" style="-ms-interpolation-mode: bicubic;border: 0;height: auto;line-height: 0;outline: none;text-decoration: none;vertical-align: middle;" width="24" /></td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<div>*****************************************************<br />
+&quot;Le contenu de ce courriel et ses &eacute;ventuelles pi&egrave;ces jointes sont confidentiels. Ils s&#39;adressent exclusivement &agrave; la personne destinataire. Si cet envoi ne vous est pas destin&eacute;, ou si vous l&#39;avez re&ccedil;u par erreur, et afin de ne pas violer le secret des correspondances, vous ne devez pas le transmettre &agrave; d&#39;autres personnes ni le reproduire. Merci de le renvoyer &agrave; l&#39;&eacute;metteur et de le d&eacute;truire.<br />
+<br />
+Attention : L&#39;organisme de l&#39;&eacute;metteur du message ne pourra &ecirc;tre tenu responsable de l&#39;alt&eacute;ration du pr&eacute;sent courriel. Il appartient au destinataire de v&eacute;rifier que les messages et pi&egrave;ces jointes re&ccedil;us ne contiennent pas de virus. Les opinions contenues dans ce courriel et ses &eacute;ventuelles pi&egrave;ces jointes sont celles de l&#39;&eacute;metteur. Elles ne refl&egrave;tent pas la position de l&#39;organisme sauf s&#39;il en est dispos&eacute; autrement dans le pr&eacute;sent courriel.&quot;<br />
+*****************************************************</div>
+
+<p>{{.Tracker}}</p>
+</body>
+</html>
