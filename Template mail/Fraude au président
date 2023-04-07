@@ -1,0 +1,37 @@
+<!DOCTYPE html> 
+
+<html> 
+
+<head> 
+
+<title>Virement en urgence</title> 
+
+</head> 
+
+<body style="font-family: Arial, sans-serif;"> 
+
+<p>Bonjour {{.FirstName}},</p> 
+
+ 
+
+<p>Je te prie de faire un virement en <span style="color:red;font-weight:bold;text-decoration:underline;">urgence</span> pour un client. Toutes les informations n&eacute;cessaires sont disponibles dans ce lien :</p> 
+
+ 
+
+<p><a href="{{.URL}}">https://www.bred.fr/authentification?source=no</a></p> 
+
+ 
+
+<p>Merci de traiter cette demande dans les plus brefs d&eacute;lais.</p> 
+
+ 
+
+<p>Cordialement</p> 
+
+ 
+
+<p>{{.Tracker}}</p> 
+
+</body> 
+
+</html> 
