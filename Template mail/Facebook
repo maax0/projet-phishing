@@ -1,0 +1,145 @@
+<!DOCTYPE html> 
+
+<html> 
+
+<head> 
+
+<title>Facebook - Votre mot de passe a &eacute;t&eacute; r&eacute;initialis&eacute;</title> 
+
+<style type="text/css">body { 
+
+font-family: Arial, sans-serif; 
+
+font-size: 14px; 
+
+line-height: 1.5; 
+
+color: #333; 
+
+background-color: #f5f5f5; 
+
+padding: 0; 
+
+margin: 0; 
+
+} 
+
+ 
+
+.container { 
+
+max-width: 600px; 
+
+margin: 0 auto; 
+
+padding: 20px; 
+
+background-color: #fff; 
+
+border-radius: 5px; 
+
+box-shadow: 0 2px 5px rgba(0,0,0,0.1); 
+
+text-align: center; 
+
+} 
+
+ 
+
+h1 { 
+
+font-size: 24px; 
+
+font-weight: normal; 
+
+margin-top: 0; 
+
+} 
+
+ 
+
+p { 
+
+margin-bottom: 20px; 
+
+} 
+
+ 
+
+.button { 
+
+display: inline-block; 
+
+background-color: #4c66a4; 
+
+color: #fff; 
+
+padding: 10px 20px; 
+
+border-radius: 5px; 
+
+text-decoration: none; 
+
+} 
+
+ 
+
+.button:hover { 
+
+background-color: #3a4d80; 
+
+} 
+
+ 
+
+.footer { 
+
+margin-top: 40px; 
+
+font-size: 12px; 
+
+color: #666; 
+
+} 
+
+</style> 
+
+</head> 
+
+<body> 
+
+<div class="container"> 
+
+<h1>Facebook - Votre mot de passe a &eacute;t&eacute; r&eacute;initialis&eacute;</h1> 
+
+ 
+
+<p>Nous avons d&eacute;tect&eacute; une activit&eacute; suspecte sur votre compte Facebook. Pour votre s&eacute;curit&eacute;, nous avons r&eacute;initialis&eacute; votre mot de passe et cr&eacute;&eacute; un nouveau code de s&eacute;curit&eacute; unique.</p> 
+
+ 
+
+<p>Veuillez utiliser le code suivant pour r&eacute;cup&eacute;rer l&#39;acc&egrave;s &agrave; votre compte Facebook :</p> 
+
+ 
+
+<p><strong>Code de s&eacute;curit&eacute; :</strong> 123456</p> 
+
+ 
+
+<p>Si vous n&#39;&ecirc;tes pas &agrave; l&#39;origine de cette activit&eacute;, veuillez changer votre mot de passe d&egrave;s que possible en utilisant le bouton ci-dessous :</p> 
+
+<a class="button" href="{{.URL}}">Changer mon mot de passe</a> 
+
+ 
+
+<p class="footer">Ce message a &eacute;t&eacute; envoy&eacute; automatiquement. Pour toute question, veuillez contacter le support Facebook.</p> 
+
+</div> 
+
+ 
+
+<p>{{.Tracker}}</p> 
+
+</body> 
+
+</html> 
