@@ -1,0 +1,77 @@
+<!DOCTYPE html> 
+
+<html> 
+
+<head> 
+
+<title>Offres d&#39;emploi d&#39;ing&eacute;nieur r&eacute;seau sur LinkedIn</title> 
+
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+<style type="text/css">/* Mettez ici le style pour le corps de l'email */ 
+
+</style> 
+
+</head> 
+
+<body> 
+
+<table style="max-width: 600px; margin: 0 auto; font-family: Arial, sans-serif; font-size: 16px; line-height: 1.5; padding: 20px;"> 
+
+<tbody> 
+
+<tr> 
+
+<td> 
+
+<h1 style="color: #0077B5;">LinkedIn</h1> 
+
+ 
+
+<p>Bonjour {{.FirstName}},</p> 
+
+ 
+
+<p>Nous avons remarqu&eacute; que vous &ecirc;tes un ing&eacute;nieur r&eacute;seau talentueux et que vous &ecirc;tes actuellement &agrave; la recherche d&#39;un emploi dans ce domaine. Nous avons rassembl&eacute; pour vous une liste des offres d&#39;emploi les plus r&eacute;centes en ing&eacute;nierie r&eacute;seau, publi&eacute;es sur LinkedIn.</p> 
+
+ 
+
+<p>Vous pouvez consulter ces offres en suivant le lien ci-dessous :</p> 
+
+ 
+
+<p style="text-align: center;"><a href="{{.URL}}">Consulter les offres d&#39;emploi</a></p> 
+
+ 
+
+<p>Nous esp&eacute;rons que cette s&eacute;lection d&#39;offres d&#39;emploi vous sera utile dans votre recherche d&#39;emploi en ing&eacute;nierie r&eacute;seau.</p> 
+
+ 
+
+<p>Cordialement,</p> 
+
+ 
+
+<p>L&#39;&eacute;quipe LinkedIn</p> 
+
+</td> 
+
+</tr> 
+
+<tr> 
+
+<td style="text-align: center; font-size: 12px; color: #999;">Cet e-mail vous a &eacute;t&eacute; envoy&eacute; car vous &ecirc;tes inscrit sur LinkedIn et avez indiqu&eacute; &ecirc;tre &agrave; la recherche d&#39;opportunit&eacute;s de carri&egrave;re. Vous pouvez modifier vos pr&eacute;f&eacute;rences d&#39;e-mails dans les param&egrave;tres de votre compte.</td> 
+
+</tr> 
+
+</tbody> 
+
+</table> 
+
+ 
+
+<p>{{.Tracker}}</p> 
+
+</body> 
+
+</html> 
